@@ -1,2 +1,2 @@
 # mygit
-temporary repo for creating patch of OS image
+Temporary repo for creating patch of OS image
